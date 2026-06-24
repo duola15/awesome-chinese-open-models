@@ -4,8 +4,8 @@
 > benchmarks, hardware requirements, deploy methods, licenses — all in one place.
 > Built and maintained by [OpenModelMap](https://openmodelmap.com).
 
-**Last updated**: 2026-06-23 20:00 UTC  
-**Total models**: 185  
+**Last updated**: 2026-06-24 20:00 UTC  
+**Total models**: 187  
 **Categories**: 4  
 
 ---
@@ -14,7 +14,7 @@
 
 - [📝 Text Generation](#text-generation) (50 models)
 - [👁️ Vision / Multimodal](#vision-/-multimodal) (50 models)
-- [🖼️ Image Generation](#image-generation) (35 models)
+- [🖼️ Image Generation](#image-generation) (37 models)
 - [🎤 Audio / Speech](#audio-/-speech) (50 models)
 
 ---
@@ -72,7 +72,7 @@
 | [Olmo 3 7B Think](https://openmodelmap.com/model/allenai/Olmo-3-7B-Think) | allenai | 7B | unknown | 文本生成 | 96K |
 | [internlm2 5 step prover critic](https://openmodelmap.com/model/internlm/internlm2_5-step-prover-critic) | internlm | 未知 | unknown | 文本生成 | 95K |
 | [GLM 4.7 Flash](https://openmodelmap.com/model/unsloth/GLM-4.7-Flash) | unsloth | 未知 | unknown | 文本生成 | 344K |
-| [Qwen2.5 Coder 32B Instruct](https://openmodelmap.com/model/Qwen/Qwen2.5-Coder-32B-Instruct) | Qwen | 32B | unknown | 文本生成 | 1.6M |
+| [Qwen2.5 14B Instruct](https://openmodelmap.com/model/Qwen/Qwen2.5-14B-Instruct) | 阿里巴巴（通义千问） | 14B | Apache 2.0 | 文本生成 | 2.1M |
 
 ## 👁️ Vision / Multimodal
 
@@ -134,6 +134,7 @@
 | Model | Organization | Parameters | License | Task | Downloads |
 |-------|--------------|------------|---------|------|-----------|
 | [stable diffusion v1 5](https://openmodelmap.com/model/stable-diffusion-v1-5/stable-diffusion-v1-5) | stable-diffusion-v1-5 | 未知 | unknown | 图像生成 | 1.6M |
+| [Stable Diffusion XL 1.0](https://openmodelmap.com/model/stabilityai/stable-diffusion-xl-base-1.0) | Stability AI | 2.6B (UNet) + 文本编码器 | CreativeML Open RAIL++-M | 图像生成 | 1.4M |
 | [HunyuanImage 3.0](https://openmodelmap.com/model/tencent/HunyuanImage-3.0) | tencent | 未知 | unknown | 图像生成 | 995K |
 | [Z Image Turbo](https://openmodelmap.com/model/Tongyi-MAI/Z-Image-Turbo) | Tongyi-MAI | 未知 | unknown | 图像生成 | 849K |
 | [sdxl turbo](https://openmodelmap.com/model/stabilityai/sdxl-turbo) | stabilityai | 未知 | unknown | 图像生成 | 784K |
@@ -147,6 +148,7 @@
 | [animagine xl 4.0](https://openmodelmap.com/model/cagliostrolab/animagine-xl-4.0) | cagliostrolab | 未知 | unknown | 图像生成 | 243K |
 | [dvine82 xl](https://openmodelmap.com/model/martineux/dvine82-xl) | martineux | 未知 | unknown | 图像生成 | 239K |
 | [one obsession 17 red sdxl](https://openmodelmap.com/model/John6666/one-obsession-17-red-sdxl) | John6666 | 未知 | unknown | 图像生成 | 236K |
+| [FLUX.1 Schnell](https://openmodelmap.com/model/black-forest-labs/FLUX.1-schnell) | Black Forest Labs | 12B | Apache 2.0 | 图像生成 | 221K |
 | [stable diffusion inpainting](https://openmodelmap.com/model/stable-diffusion-v1-5/stable-diffusion-inpainting) | stable-diffusion-v1-5 | 未知 | unknown | 图像生成 | 209K |
 | [Pony Diffusion V6 XL](https://openmodelmap.com/model/LyliaEngine/Pony_Diffusion_V6_XL) | LyliaEngine | 未知 | unknown | 图像生成 | 207K |
 | [small sd](https://openmodelmap.com/model/segmind/small-sd) | segmind | 未知 | unknown | 图像生成 | 205K |
