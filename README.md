@@ -4,7 +4,7 @@
 > benchmarks, hardware requirements, deploy methods, licenses — all in one place.
 > Built and maintained by [OpenModelMap](https://openmodelmap.com).
 
-**Last updated**: 2026-06-24 20:00 UTC  
+**Last updated**: 2026-06-25 20:00 UTC  
 **Total models**: 187  
 **Categories**: 4  
 
@@ -34,6 +34,7 @@
 | [L3.3 GeneticLemonade Final v2 70B](https://openmodelmap.com/model/zerofata/L3.3-GeneticLemonade-Final-v2-70B) | zerofata | 70B | unknown | 文本生成 | 95K |
 | [gpt oss 120b](https://openmodelmap.com/model/openai/gpt-oss-120b) | openai | 120B | unknown | 文本生成 | 3.8M |
 | [NVIDIA Nemotron 3 Super 120B A12B BF16](https://openmodelmap.com/model/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16) | nvidia | 120B | unknown | 文本生成 | 769K |
+| [Qwen3 8B](https://openmodelmap.com/model/Qwen/Qwen3-8B) | Qwen | 8B | unknown | 文本生成 | 13.1M |
 | [DeepSeek R1 0528](https://openmodelmap.com/model/deepseek-ai/DeepSeek-R1-0528) | deepseek-ai | 未知 | unknown | 文本生成 | 6.8M |
 | [DeepSeek V3](https://openmodelmap.com/model/deepseek-ai/DeepSeek-V3) | DeepSeek | 671B (37B activated) | DeepSeek License | 文本生成 | 1.0M |
 | [Qwen3 14B](https://openmodelmap.com/model/Qwen/Qwen3-14B) | Qwen | 14B | unknown | 文本生成 | 1.5M |
@@ -45,6 +46,7 @@
 | [gpt oss 120b](https://openmodelmap.com/model/unsloth/gpt-oss-120b) | unsloth | 120B | unknown | 文本生成 | 113K |
 | [Meta Llama 3.1 70B Instruct quantized.w4a16](https://openmodelmap.com/model/RedHatAI/Meta-Llama-3.1-70B-Instruct-quantized.w4a16) | RedHatAI | 70B | unknown | 文本生成 | 105K |
 | [cogito v1 preview qwen 32B](https://openmodelmap.com/model/deepcogito/cogito-v1-preview-qwen-32B) | deepcogito | 32B | unknown | 文本生成 | 95K |
+| [Llama 3.1 405B Instruct](https://openmodelmap.com/model/meta-llama/Meta-Llama-3.1-405B-Instruct) | Meta | 405B | Llama 3.1 Community License | 文本生成 | 217K |
 | [Qwen2.5 72B](https://openmodelmap.com/model/Qwen/Qwen2.5-72B-Instruct) | 阿里巴巴（通义千问） | 72B | Apache 2.0 | 文本生成 | 663K |
 | [DeepSeek V4 Flash](https://openmodelmap.com/model/deepseek-ai/DeepSeek-V4-Flash) | deepseek-ai | 未知 | unknown | 文本生成 | 2.2M |
 | [Kimi K2 Instruct 0905](https://openmodelmap.com/model/moonshotai/Kimi-K2-Instruct-0905) | moonshotai | 未知 | unknown | 文本生成 | 2.0M |
@@ -55,6 +57,7 @@
 | [GLM 4.7 Flash MLX 8bit](https://openmodelmap.com/model/lmstudio-community/GLM-4.7-Flash-MLX-8bit) | lmstudio-community | 未知 | unknown | 文本生成 | 176K |
 | [Llama 3 3 Nemotron Super 49B v1](https://openmodelmap.com/model/nvidia/Llama-3_3-Nemotron-Super-49B-v1) | nvidia | 49B | unknown | 文本生成 | 129K |
 | [GLM 5.1](https://openmodelmap.com/model/zai-org/GLM-5.1) | zai-org | 未知 | unknown | 文本生成 | 127K |
+| [Llama 3.1 70B Instruct](https://openmodelmap.com/model/meta-llama/Meta-Llama-3.1-70B-Instruct) | Meta | 70B | Llama 3.1 Community License | 文本生成 | 672K |
 | [Qwen2.5 32B](https://openmodelmap.com/model/Qwen/Qwen2.5-32B-Instruct) | 阿里巴巴（通义千问） | 32B | Apache 2.0 | 文本生成 | 1.2M |
 | [DeepSeek R1 Distill Qwen 32B](https://openmodelmap.com/model/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B) | DeepSeek | 32B | MIT | 文本生成 | 758K |
 | [gpt oss 20b](https://openmodelmap.com/model/openai/gpt-oss-20b) | openai | 20B | unknown | 文本生成 | 6.5M |
@@ -70,9 +73,6 @@
 | [Olmo 3 1025 7B](https://openmodelmap.com/model/allenai/Olmo-3-1025-7B) | allenai | 7B | unknown | 文本生成 | 151K |
 | [Meta Llama 3.1 8B Instruct](https://openmodelmap.com/model/NousResearch/Meta-Llama-3.1-8B-Instruct) | NousResearch | 8B | unknown | 文本生成 | 137K |
 | [Olmo 3 7B Think](https://openmodelmap.com/model/allenai/Olmo-3-7B-Think) | allenai | 7B | unknown | 文本生成 | 96K |
-| [internlm2 5 step prover critic](https://openmodelmap.com/model/internlm/internlm2_5-step-prover-critic) | internlm | 未知 | unknown | 文本生成 | 95K |
-| [GLM 4.7 Flash](https://openmodelmap.com/model/unsloth/GLM-4.7-Flash) | unsloth | 未知 | unknown | 文本生成 | 344K |
-| [Qwen2.5 14B Instruct](https://openmodelmap.com/model/Qwen/Qwen2.5-14B-Instruct) | 阿里巴巴（通义千问） | 14B | Apache 2.0 | 文本生成 | 2.1M |
 
 ## 👁️ Vision / Multimodal
 
@@ -115,6 +115,7 @@
 | [Qwen3.6 35B A3B MLX 8bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.6-35B-A3B-MLX-8bit) | lmstudio-community | 35B | unknown | 多模态 | 88K |
 | [Qwen3.6 35B A3B MLX 4bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.6-35B-A3B-MLX-4bit) | lmstudio-community | 35B | unknown | 多模态 | 80K |
 | [Qwen3.5 35B A3B Uncensored HauhauCS Aggressive](https://openmodelmap.com/model/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | HauhauCS | 35B | unknown | 多模态 | 196K |
+| [gemma 4 26B A4B it](https://openmodelmap.com/model/google/gemma-4-26B-A4B-it) | google | 26B | unknown | 多模态 | 13.2M |
 | [Qwen3 VL 8B Instruct](https://openmodelmap.com/model/Qwen/Qwen3-VL-8B-Instruct) | Qwen | 8B | unknown | 多模态 | 7.3M |
 | [Qwen3.6 35B A3B](https://openmodelmap.com/model/Qwen/Qwen3.6-35B-A3B) | Qwen | 35B | unknown | 多模态 | 3.7M |
 | [Qwen3 VL 2B Instruct](https://openmodelmap.com/model/Qwen/Qwen3-VL-2B-Instruct) | Qwen | 2B | unknown | 多模态 | 1.9M |
@@ -127,7 +128,6 @@
 | [Qwen2.5 VL 7B Instruct abliterated](https://openmodelmap.com/model/huihui-ai/Qwen2.5-VL-7B-Instruct-abliterated) | huihui-ai | 7B | unknown | 多模态 | 127K |
 | [kosmos 2.5](https://openmodelmap.com/model/microsoft/kosmos-2.5) | microsoft | 未知 | unknown | 多模态 | 105K |
 | [InternVL3 14B](https://openmodelmap.com/model/OpenGVLab/InternVL3-14B) | OpenGVLab | 14B | unknown | 多模态 | 90K |
-| [AIN](https://openmodelmap.com/model/MBZUAI/AIN) | MBZUAI | 未知 | unknown | 多模态 | 88K |
 
 ## 🖼️ Image Generation
 
@@ -175,6 +175,7 @@
 
 | Model | Organization | Parameters | License | Task | Downloads |
 |-------|--------------|------------|---------|------|-----------|
+| [Kokoro 82M](https://openmodelmap.com/model/hexgrad/Kokoro-82M) | hexgrad | 未知 | unknown | 语音合成 | 16.1M |
 | [mms 300m 1130 forced aligner](https://openmodelmap.com/model/MahmoudAshraf/mms-300m-1130-forced-aligner) | MahmoudAshraf | 未知 | unknown | 语音识别 | 2.6M |
 | [OmniVoice](https://openmodelmap.com/model/k2-fsa/OmniVoice) | k2-fsa | 未知 | unknown | 语音合成 | 2.0M |
 | [Qwen3 TTS 12Hz 1.7B CustomVoice](https://openmodelmap.com/model/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) | Qwen | 1.7B | unknown | 语音合成 | 1.9M |
@@ -224,7 +225,6 @@
 | [MeloTTS Korean](https://openmodelmap.com/model/myshell-ai/MeloTTS-Korean) | myshell-ai | 未知 | unknown | 语音合成 | 111K |
 | [hf seamless m4t medium](https://openmodelmap.com/model/facebook/hf-seamless-m4t-medium) | facebook | 未知 | unknown | 语音合成 | 109K |
 | [E2 TTS](https://openmodelmap.com/model/SWivid/E2-TTS) | SWivid | 未知 | unknown | 语音合成 | 103K |
-| [speakerkit coreml](https://openmodelmap.com/model/argmaxinc/speakerkit-coreml) | argmaxinc | 未知 | unknown | 语音识别 | 98K |
 
 ---
 
