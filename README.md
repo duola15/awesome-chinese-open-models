@@ -4,7 +4,7 @@
 > benchmarks, hardware requirements, deploy methods, licenses — all in one place.
 > Built and maintained by [OpenModelMap](https://openmodelmap.com).
 
-**Last updated**: 2026-07-05 20:00 UTC  
+**Last updated**: 2026-07-06 20:00 UTC  
 **Total models**: 187  
 **Categories**: 4  
 
@@ -209,6 +209,7 @@
 | [parakeet tdt 0.6b v3 coreml](https://openmodelmap.com/model/FluidInference/parakeet-tdt-0.6b-v3-coreml) | FluidInference | 600M | unknown | 语音识别 | 213K |
 | [my zh CN asr cv13 model](https://openmodelmap.com/model/tristayqc/my_zh_CN_asr_cv13_model) | tristayqc | 未知 | unknown | 语音识别 | 193K |
 | [higgs audio v2 generation 3B base](https://openmodelmap.com/model/bosonai/higgs-audio-v2-generation-3B-base) | bosonai | 3B | unknown | 语音合成 | 191K |
+| [nemotron-3.5-asr-streaming-0.6b](https://openmodelmap.com/model/nvidia/nemotron-3.5-asr-streaming-0.6b) | nvidia | 0.6B |  | automatic-speech-recognition | 184K |
 | [MOSS TTS Nano 100M](https://openmodelmap.com/model/OpenMOSS-Team/MOSS-TTS-Nano-100M) | OpenMOSS-Team | 未知 | unknown | 语音合成 | 159K |
 | [speakerkit pro](https://openmodelmap.com/model/argmaxinc/speakerkit-pro) | argmaxinc | 未知 | unknown | 语音识别 | 152K |
 | [neutts nano](https://openmodelmap.com/model/neuphonic/neutts-nano) | neuphonic | 未知 | unknown | 语音合成 | 147K |
@@ -224,7 +225,6 @@
 | [s2t small librispeech asr](https://openmodelmap.com/model/facebook/s2t-small-librispeech-asr) | facebook | 未知 | unknown | 语音识别 | 117K |
 | [MeloTTS Korean](https://openmodelmap.com/model/myshell-ai/MeloTTS-Korean) | myshell-ai | 未知 | unknown | 语音合成 | 111K |
 | [hf seamless m4t medium](https://openmodelmap.com/model/facebook/hf-seamless-m4t-medium) | facebook | 未知 | unknown | 语音合成 | 109K |
-| [E2 TTS](https://openmodelmap.com/model/SWivid/E2-TTS) | SWivid | 未知 | unknown | 语音合成 | 103K |
 
 ---
 
