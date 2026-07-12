@@ -4,7 +4,7 @@
 > benchmarks, hardware requirements, deploy methods, licenses — all in one place.
 > Built and maintained by [OpenModelMap](https://openmodelmap.com).
 
-**Last updated**: 2026-07-11 20:00 UTC  
+**Last updated**: 2026-07-12 20:00 UTC  
 **Total models**: 187  
 **Categories**: 4  
 
@@ -43,7 +43,7 @@
 | [Kimi K2 Thinking](https://openmodelmap.com/model/moonshotai/Kimi-K2-Thinking) | moonshotai | 未知 | unknown | 文本生成 | 145K |
 | [Qwen3 30B A3B Thinking 2507](https://openmodelmap.com/model/Qwen/Qwen3-30B-A3B-Thinking-2507) | Qwen | 30B | unknown | 文本生成 | 138K |
 | [Qwen3 235B A22B Instruct 2507](https://openmodelmap.com/model/Qwen/Qwen3-235B-A22B-Instruct-2507) | Qwen | 235B | unknown | 文本生成 | 124K |
-| [gpt oss 120b](https://openmodelmap.com/model/unsloth/gpt-oss-120b) | unsloth | 120B | unknown | 文本生成 | 113K |
+| [gpt oss 120b (unsloth)](https://openmodelmap.com/model/unsloth/gpt-oss-120b) | unsloth | 120B | unknown | 文本生成 | 113K |
 | [Meta Llama 3.1 70B Instruct quantized.w4a16](https://openmodelmap.com/model/RedHatAI/Meta-Llama-3.1-70B-Instruct-quantized.w4a16) | RedHatAI | 70B | unknown | 文本生成 | 105K |
 | [cogito v1 preview qwen 32B](https://openmodelmap.com/model/deepcogito/cogito-v1-preview-qwen-32B) | deepcogito | 32B | unknown | 文本生成 | 95K |
 | [Llama 3.1 405B Instruct](https://openmodelmap.com/model/meta-llama/Meta-Llama-3.1-405B-Instruct) | Meta | 405B | Llama 3.1 Community License | 文本生成 | 217K |
@@ -69,9 +69,9 @@
 | [Qwen3 8B Base](https://openmodelmap.com/model/Qwen/Qwen3-8B-Base) | Qwen | 8B | unknown | 文本生成 | 454K |
 | [Meta Llama 3.1 8B Instruct](https://openmodelmap.com/model/unsloth/Meta-Llama-3.1-8B-Instruct) | unsloth | 8B | unknown | 文本生成 | 407K |
 | [Apertus 70B Instruct 2509 quantized.w4a16](https://openmodelmap.com/model/RedHatAI/Apertus-70B-Instruct-2509-quantized.w4a16) | RedHatAI | 70B | unknown | 文本生成 | 176K |
-| [Llama 3.1 8B Instruct](https://openmodelmap.com/model/unsloth/Llama-3.1-8B-Instruct) | unsloth | 8B | unknown | 文本生成 | 158K |
+| [Llama 3.1 8B Instruct (unsloth)](https://openmodelmap.com/model/unsloth/Llama-3.1-8B-Instruct) | unsloth | 8B | unknown | 文本生成 | 158K |
 | [Olmo 3 1025 7B](https://openmodelmap.com/model/allenai/Olmo-3-1025-7B) | allenai | 7B | unknown | 文本生成 | 151K |
-| [Meta Llama 3.1 8B Instruct](https://openmodelmap.com/model/NousResearch/Meta-Llama-3.1-8B-Instruct) | NousResearch | 8B | unknown | 文本生成 | 137K |
+| [Meta Llama 3.1 8B Instruct (NousResearch)](https://openmodelmap.com/model/NousResearch/Meta-Llama-3.1-8B-Instruct) | NousResearch | 8B | unknown | 文本生成 | 137K |
 | [Olmo 3 7B Think](https://openmodelmap.com/model/allenai/Olmo-3-7B-Think) | allenai | 7B | unknown | 文本生成 | 96K |
 
 ## 👁️ Vision / Multimodal
@@ -123,7 +123,7 @@
 | [Qwen3.6 27B MLX 5bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.6-27B-MLX-5bit) | lmstudio-community | 27B | unknown | 多模态 | 327K |
 | [Qwen3.5 9B Base](https://openmodelmap.com/model/Qwen/Qwen3.5-9B-Base) | Qwen | 9B | unknown | 多模态 | 201K |
 | [Gemma4 26B A4B Uncensored HauhauCS Balanced](https://openmodelmap.com/model/HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced) | HauhauCS | 26B | unknown | 多模态 | 170K |
-| [Qwen3.5 9B](https://openmodelmap.com/model/unsloth/Qwen3.5-9B) | unsloth | 9B | unknown | 多模态 | 142K |
+| [Qwen3.5 9B (unsloth)](https://openmodelmap.com/model/unsloth/Qwen3.5-9B) | unsloth | 9B | unknown | 多模态 | 142K |
 | [gemma 3 12b it quantized W4A16](https://openmodelmap.com/model/abhishekchohan/gemma-3-12b-it-quantized-W4A16) | abhishekchohan | 12B | unknown | 多模态 | 139K |
 | [Qwen2.5 VL 7B Instruct abliterated](https://openmodelmap.com/model/huihui-ai/Qwen2.5-VL-7B-Instruct-abliterated) | huihui-ai | 7B | unknown | 多模态 | 127K |
 | [kosmos 2.5](https://openmodelmap.com/model/microsoft/kosmos-2.5) | microsoft | 未知 | unknown | 多模态 | 105K |
@@ -182,7 +182,7 @@
 | [chatterbox](https://openmodelmap.com/model/ResembleAI/chatterbox) | ResembleAI | 未知 | unknown | 语音合成 | 1.7M |
 | [Qwen3 ASR 1.7B](https://openmodelmap.com/model/Qwen/Qwen3-ASR-1.7B) | Qwen | 1.7B | unknown | 语音识别 | 1.5M |
 | [Voxtral Mini 4B Realtime 2602](https://openmodelmap.com/model/mistralai/Voxtral-Mini-4B-Realtime-2602) | mistralai | 4B | unknown | 语音识别 | 1.1M |
-| [parakeet tdt 0.6b v3](https://openmodelmap.com/model/mlx-community/parakeet-tdt-0.6b-v3) | mlx-community | 600M | unknown | 语音识别 | 1.1M |
+| [parakeet tdt 0.6b v3 (mlx-community)](https://openmodelmap.com/model/mlx-community/parakeet-tdt-0.6b-v3) | mlx-community | 600M | unknown | 语音识别 | 1.1M |
 | [Qwen3 TTS 12Hz 0.6B CustomVoice](https://openmodelmap.com/model/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice) | Qwen | 600M | unknown | 语音合成 | 912K |
 | [Qwen3 ASR 0.6B](https://openmodelmap.com/model/Qwen/Qwen3-ASR-0.6B) | Qwen | 600M | unknown | 语音识别 | 803K |
 | [parakeet ctc 1.1b](https://openmodelmap.com/model/nvidia/parakeet-ctc-1.1b) | nvidia | 1.1B | unknown | 语音识别 | 787K |
@@ -195,7 +195,7 @@
 | [Kokoro 82M v1.0 ONNX](https://openmodelmap.com/model/onnx-community/Kokoro-82M-v1.0-ONNX) | onnx-community | 未知 | unknown | 语音合成 | 517K |
 | [Phi 4 multimodal instruct](https://openmodelmap.com/model/microsoft/Phi-4-multimodal-instruct) | microsoft | 未知 | unknown | 语音识别 | 478K |
 | [granite speech 3.3 2b](https://openmodelmap.com/model/ibm-granite/granite-speech-3.3-2b) | ibm-granite | 2B | unknown | 语音识别 | 464K |
-| [parakeet tdt 0.6b v2](https://openmodelmap.com/model/mlx-community/parakeet-tdt-0.6b-v2) | mlx-community | 600M | unknown | 语音识别 | 461K |
+| [parakeet tdt 0.6b v2 (mlx-community)](https://openmodelmap.com/model/mlx-community/parakeet-tdt-0.6b-v2) | mlx-community | 600M | unknown | 语音识别 | 461K |
 | [seamless m4t v2 large](https://openmodelmap.com/model/facebook/seamless-m4t-v2-large) | facebook | 未知 | unknown | 语音识别 | 454K |
 | [granite speech 4.1 2b](https://openmodelmap.com/model/ibm-granite/granite-speech-4.1-2b) | ibm-granite | 2B | unknown | 语音识别 | 429K |
 | [Qwen3 ForcedAligner 0.6B](https://openmodelmap.com/model/Qwen/Qwen3-ForcedAligner-0.6B) | Qwen | 600M | unknown | 语音识别 | 405K |
