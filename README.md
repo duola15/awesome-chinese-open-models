@@ -4,7 +4,7 @@
 > benchmarks, hardware requirements, deploy methods, licenses — all in one place.
 > Built and maintained by [OpenModelMap](https://openmodelmap.com).
 
-**Last updated**: 2026-07-14 20:00 UTC  
+**Last updated**: 2026-07-19 08:46 UTC  
 **Total models**: 187  
 **Categories**: 4  
 
@@ -23,47 +23,19 @@
 
 | Model | Organization | Parameters | License | Task | Downloads |
 |-------|--------------|------------|---------|------|-----------|
-| [DeepSeek V4 Pro](https://openmodelmap.com/model/deepseek-ai/DeepSeek-V4-Pro) | deepseek-ai | 未知 | unknown | 文本生成 | 3.4M |
-| [Llama 3 3 Nemotron Super 49B v1 5](https://openmodelmap.com/model/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5) | nvidia | 49B | unknown | 文本生成 | 821K |
-| [DeepSeek V3.1](https://openmodelmap.com/model/deepseek-ai/DeepSeek-V3.1) | deepseek-ai | 未知 | unknown | 文本生成 | 218K |
 | [DeepSeek R1](https://openmodelmap.com/model/deepseek-ai/DeepSeek-R1) | DeepSeek | 671B (37B activated) | MIT | 文本生成 | 7.0M |
-| [DeepSeek V3.2](https://openmodelmap.com/model/deepseek-ai/DeepSeek-V3.2) | deepseek-ai | 未知 | unknown | 文本生成 | 3.4M |
-| [Qwen3 235B A22B](https://openmodelmap.com/model/Qwen/Qwen3-235B-A22B) | Qwen | 235B | unknown | 文本生成 | 539K |
-| [Qwen3 Next 80B A3B Instruct](https://openmodelmap.com/model/Qwen/Qwen3-Next-80B-A3B-Instruct) | Qwen | 80B | unknown | 文本生成 | 324K |
-| [Hermes 3 Llama 3.1 70B](https://openmodelmap.com/model/NousResearch/Hermes-3-Llama-3.1-70B) | NousResearch | 70B | unknown | 文本生成 | 132K |
-| [L3.3 GeneticLemonade Final v2 70B](https://openmodelmap.com/model/zerofata/L3.3-GeneticLemonade-Final-v2-70B) | zerofata | 70B | unknown | 文本生成 | 95K |
-| [gpt oss 120b](https://openmodelmap.com/model/openai/gpt-oss-120b) | openai | 120B | unknown | 文本生成 | 3.8M |
-| [NVIDIA Nemotron 3 Super 120B A12B BF16](https://openmodelmap.com/model/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16) | nvidia | 120B | unknown | 文本生成 | 769K |
-| [Qwen3 8B](https://openmodelmap.com/model/Qwen/Qwen3-8B) | Qwen | 8B | unknown | 文本生成 | 13.1M |
-| [DeepSeek R1 0528](https://openmodelmap.com/model/deepseek-ai/DeepSeek-R1-0528) | deepseek-ai | 未知 | unknown | 文本生成 | 6.8M |
 | [DeepSeek V3](https://openmodelmap.com/model/deepseek-ai/DeepSeek-V3) | DeepSeek | 671B (37B activated) | DeepSeek License | 文本生成 | 1.0M |
 | [Qwen3 14B](https://openmodelmap.com/model/Qwen/Qwen3-14B) | Qwen | 14B | unknown | 文本生成 | 1.5M |
 | [MiniMax M2.5](https://openmodelmap.com/model/MiniMaxAI/MiniMax-M2.5) | MiniMaxAI | 未知 | unknown | 文本生成 | 585K |
-| [Kimi K2 Instruct](https://openmodelmap.com/model/moonshotai/Kimi-K2-Instruct) | moonshotai | 未知 | unknown | 文本生成 | 532K |
-| [Kimi K2 Thinking](https://openmodelmap.com/model/moonshotai/Kimi-K2-Thinking) | moonshotai | 未知 | unknown | 文本生成 | 145K |
-| [Qwen3 30B A3B Thinking 2507](https://openmodelmap.com/model/Qwen/Qwen3-30B-A3B-Thinking-2507) | Qwen | 30B | unknown | 文本生成 | 138K |
-| [Qwen3 235B A22B Instruct 2507](https://openmodelmap.com/model/Qwen/Qwen3-235B-A22B-Instruct-2507) | Qwen | 235B | unknown | 文本生成 | 124K |
-| [gpt oss 120b (unsloth)](https://openmodelmap.com/model/unsloth/gpt-oss-120b) | unsloth | 120B | unknown | 文本生成 | 113K |
 | [Meta Llama 3.1 70B Instruct quantized.w4a16](https://openmodelmap.com/model/RedHatAI/Meta-Llama-3.1-70B-Instruct-quantized.w4a16) | RedHatAI | 70B | unknown | 文本生成 | 105K |
-| [cogito v1 preview qwen 32B](https://openmodelmap.com/model/deepcogito/cogito-v1-preview-qwen-32B) | deepcogito | 32B | unknown | 文本生成 | 95K |
 | [Llama 3.1 405B Instruct](https://openmodelmap.com/model/meta-llama/Meta-Llama-3.1-405B-Instruct) | Meta | 405B | Llama 3.1 Community License | 文本生成 | 217K |
 | [Qwen2.5 72B](https://openmodelmap.com/model/Qwen/Qwen2.5-72B-Instruct) | 阿里巴巴（通义千问） | 72B | Apache 2.0 | 文本生成 | 663K |
-| [DeepSeek V4 Flash](https://openmodelmap.com/model/deepseek-ai/DeepSeek-V4-Flash) | deepseek-ai | 未知 | unknown | 文本生成 | 2.2M |
-| [Kimi K2 Instruct 0905](https://openmodelmap.com/model/moonshotai/Kimi-K2-Instruct-0905) | moonshotai | 未知 | unknown | 文本生成 | 2.0M |
 | [GLM 4.7 Flash](https://openmodelmap.com/model/zai-org/GLM-4.7-Flash) | zai-org | 未知 | unknown | 文本生成 | 1.2M |
-| [Qwen2.5 72B Instruct abliterated](https://openmodelmap.com/model/huihui-ai/Qwen2.5-72B-Instruct-abliterated) | huihui-ai | 72B | unknown | 文本生成 | 244K |
-| [GLM 5](https://openmodelmap.com/model/zai-org/GLM-5) | zai-org | 未知 | unknown | 文本生成 | 98K |
 | [DeepSeek V3 0324](https://openmodelmap.com/model/deepseek-ai/DeepSeek-V3-0324) | deepseek-ai | 未知 | unknown | 文本生成 | 896K |
 | [GLM 4.7 Flash MLX 8bit](https://openmodelmap.com/model/lmstudio-community/GLM-4.7-Flash-MLX-8bit) | lmstudio-community | 未知 | unknown | 文本生成 | 176K |
-| [Llama 3 3 Nemotron Super 49B v1](https://openmodelmap.com/model/nvidia/Llama-3_3-Nemotron-Super-49B-v1) | nvidia | 49B | unknown | 文本生成 | 129K |
-| [GLM 5.1](https://openmodelmap.com/model/zai-org/GLM-5.1) | zai-org | 未知 | unknown | 文本生成 | 127K |
 | [Llama 3.1 70B Instruct](https://openmodelmap.com/model/meta-llama/Meta-Llama-3.1-70B-Instruct) | Meta | 70B | Llama 3.1 Community License | 文本生成 | 672K |
 | [Qwen2.5 32B](https://openmodelmap.com/model/Qwen/Qwen2.5-32B-Instruct) | 阿里巴巴（通义千问） | 32B | Apache 2.0 | 文本生成 | 1.2M |
 | [DeepSeek R1 Distill Qwen 32B](https://openmodelmap.com/model/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B) | DeepSeek | 32B | MIT | 文本生成 | 758K |
-| [gpt oss 20b](https://openmodelmap.com/model/openai/gpt-oss-20b) | openai | 20B | unknown | 文本生成 | 6.5M |
-| [Qwen3 32B](https://openmodelmap.com/model/Qwen/Qwen3-32B) | Qwen | 32B | unknown | 文本生成 | 2.7M |
-| [Qwen3 30B A3B](https://openmodelmap.com/model/Qwen/Qwen3-30B-A3B) | Qwen | 30B | unknown | 文本生成 | 2.1M |
-| [Qwen3 Coder 30B A3B Instruct](https://openmodelmap.com/model/Qwen/Qwen3-Coder-30B-A3B-Instruct) | Qwen | 30B | unknown | 文本生成 | 1.9M |
 | [Mistral 7B Instruct v0.2](https://openmodelmap.com/model/mistralai/Mistral-7B-Instruct-v0.2) | mistralai | 7B | unknown | 文本生成 | 1.4M |
 | [phi 4](https://openmodelmap.com/model/microsoft/phi-4) | microsoft | 未知 | unknown | 文本生成 | 814K |
 | [Qwen3 8B Base](https://openmodelmap.com/model/Qwen/Qwen3-8B-Base) | Qwen | 8B | unknown | 文本生成 | 454K |
@@ -73,33 +45,46 @@
 | [Olmo 3 1025 7B](https://openmodelmap.com/model/allenai/Olmo-3-1025-7B) | allenai | 7B | unknown | 文本生成 | 151K |
 | [Meta Llama 3.1 8B Instruct (NousResearch)](https://openmodelmap.com/model/NousResearch/Meta-Llama-3.1-8B-Instruct) | NousResearch | 8B | unknown | 文本生成 | 137K |
 | [Olmo 3 7B Think](https://openmodelmap.com/model/allenai/Olmo-3-7B-Think) | allenai | 7B | unknown | 文本生成 | 96K |
+| [internlm2 5 step prover critic](https://openmodelmap.com/model/internlm/internlm2_5-step-prover-critic) | internlm | 未知 | unknown | 文本生成 | 95K |
+| [GLM 4.7 Flash (unsloth)](https://openmodelmap.com/model/unsloth/GLM-4.7-Flash) | unsloth | 未知 | unknown | 文本生成 | 344K |
+| [Qwen2.5 14B Instruct](https://openmodelmap.com/model/Qwen/Qwen2.5-14B-Instruct) | 阿里巴巴（通义千问） | 14B | Apache 2.0 | 文本生成 | 2.1M |
+| [DeepSeek R1 0528 Qwen3 8B MLX 4bit](https://openmodelmap.com/model/lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-4bit) | lmstudio-community | 8B | unknown | 文本生成 | 347K |
+| [gemma 4 26B A4B it uncensored](https://openmodelmap.com/model/TrevorJS/gemma-4-26B-A4B-it-uncensored) | TrevorJS | 26B | unknown | 文本生成 | 219K |
+| [GLM 4.7 Flash MLX 6bit](https://openmodelmap.com/model/lmstudio-community/GLM-4.7-Flash-MLX-6bit) | lmstudio-community | 未知 | unknown | 文本生成 | 169K |
+| [Qwen VL](https://openmodelmap.com/model/Qwen/Qwen-VL) | Qwen | 未知 | unknown | 文本生成 | 139K |
+| [phi 4 quantized.w4a16](https://openmodelmap.com/model/RedHatAI/phi-4-quantized.w4a16) | RedHatAI | 未知 | unknown | 文本生成 | 94K |
+| [Phi-3.5 MoE](https://openmodelmap.com/model/microsoft/Phi-3.5-MoE-instruct) | Microsoft | 42B (6.6B activated) | MIT | 文本生成 | 135K |
+| [Qwen3 14B Base](https://openmodelmap.com/model/Qwen/Qwen3-14B-Base) | Qwen | 14B | unknown | 文本生成 | 93K |
+| [Qwen2.5 7B (Qwen)](https://openmodelmap.com/model/Qwen/Qwen2.5-7B) | Qwen | 7B | unknown | 文本生成 | 802K |
+| [Qwen2 7B Instruct](https://openmodelmap.com/model/Qwen/Qwen2-7B-Instruct) | Qwen | 7B | unknown | 文本生成 | 646K |
+| [ModernBERT large](https://openmodelmap.com/model/answerdotai/ModernBERT-large) | answerdotai | 未知 | unknown | 文本生成 | 336K |
+| [Mistral 7B Instruct v0.1](https://openmodelmap.com/model/mistralai/Mistral-7B-Instruct-v0.1) | mistralai | 7B | unknown | 文本生成 | 260K |
+| [LFM2 24B A2B MLX 4bit](https://openmodelmap.com/model/lmstudio-community/LFM2-24B-A2B-MLX-4bit) | lmstudio-community | 24B | unknown | 文本生成 | 238K |
+| [Kimi K2.5 (mlx-community)](https://openmodelmap.com/model/mlx-community/Kimi-K2.5) | mlx-community | 未知 | unknown | 文本生成 | 233K |
+| [GLM 4.5](https://openmodelmap.com/model/zai-org/GLM-4.5) | zai-org | 未知 | unknown | 文本生成 | 177K |
+| [Qwen3 8B (unsloth)](https://openmodelmap.com/model/unsloth/Qwen3-8B) | unsloth | 8B | unknown | 文本生成 | 92K |
+| [Kimi K2.6 mlx DQ3 K M q8](https://openmodelmap.com/model/mlx-community/Kimi-K2.6-mlx-DQ3_K_M-q8) | mlx-community | 未知 | unknown | 文本生成 | 86K |
+| [Hy3 preview](https://openmodelmap.com/model/tencent/Hy3-preview) | tencent | 未知 | unknown | 文本生成 | 80K |
+| [Olmo 3 7B Instruct](https://openmodelmap.com/model/allenai/Olmo-3-7B-Instruct) | allenai | 7B | unknown | 文本生成 | 152K |
+| [MiniMax M2.7](https://openmodelmap.com/model/MiniMaxAI/MiniMax-M2.7) | MiniMaxAI | 未知 | unknown | 文本生成 | 2.6M |
+| [Rio 3.0 Open Mini](https://openmodelmap.com/model/prefeitura-rio/Rio-3.0-Open-Mini) | prefeitura-rio | 未知 | unknown | 文本生成 | 2.1M |
+| [LLaDA 8B Instruct](https://openmodelmap.com/model/GSAI-ML/LLaDA-8B-Instruct) | GSAI-ML | 8B | unknown | 文本生成 | 813K |
+| [Qwen3 4B Thinking 2507](https://openmodelmap.com/model/Qwen/Qwen3-4B-Thinking-2507) | Qwen | 4B | unknown | 文本生成 | 527K |
+| [gpt oss 20b MXFP4 Q8](https://openmodelmap.com/model/mlx-community/gpt-oss-20b-MXFP4-Q8) | mlx-community | 20B | unknown | 文本生成 | 370K |
+| [DeepSeek R1 0528 Qwen3 8B MLX 8bit](https://openmodelmap.com/model/lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-8bit) | lmstudio-community | 8B | unknown | 文本生成 | 313K |
+| [ReaderLM v2](https://openmodelmap.com/model/jinaai/ReaderLM-v2) | jinaai | 未知 | unknown | 文本生成 | 261K |
 
 ## 👁️ Vision / Multimodal
 
 | Model | Organization | Parameters | License | Task | Downloads |
 |-------|--------------|------------|---------|------|-----------|
-| [Qwen3 VL 235B A22B Instruct](https://openmodelmap.com/model/Qwen/Qwen3-VL-235B-A22B-Instruct) | Qwen | 235B | unknown | 多模态 | 1.6M |
-| [Qwen3.5 397B A17B](https://openmodelmap.com/model/Qwen/Qwen3.5-397B-A17B) | Qwen | 397B | unknown | 多模态 | 852K |
-| [Qwen3.5 122B A10B](https://openmodelmap.com/model/Qwen/Qwen3.5-122B-A10B) | Qwen | 122B | unknown | 多模态 | 792K |
-| [Kimi K2.6](https://openmodelmap.com/model/moonshotai/Kimi-K2.6) | moonshotai | 未知 | unknown | 多模态 | 2.2M |
-| [Qwen3 VL 32B Instruct](https://openmodelmap.com/model/Qwen/Qwen3-VL-32B-Instruct) | Qwen | 32B | unknown | 多模态 | 3.0M |
-| [Qwen3.6 35B A3B Uncensored HauhauCS Aggressive](https://openmodelmap.com/model/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive) | HauhauCS | 35B | unknown | 多模态 | 2.4M |
 | [Qwen3 VL 8B Thinking](https://openmodelmap.com/model/Qwen/Qwen3-VL-8B-Thinking) | Qwen | 8B | unknown | 多模态 | 252K |
 | [chandra](https://openmodelmap.com/model/datalab-to/chandra) | datalab-to | 未知 | unknown | 多模态 | 224K |
-| [NVLM D 72B](https://openmodelmap.com/model/nvidia/NVLM-D-72B) | nvidia | 72B | unknown | 多模态 | 131K |
 | [Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled](https://openmodelmap.com/model/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Jackrong | 27B | unknown | 多模态 | 127K |
 | [gemma 4 26B A4B](https://openmodelmap.com/model/google/gemma-4-26B-A4B) | google | 26B | unknown | 多模态 | 102K |
-| [Qwen2.5 VL 72B Instruct](https://openmodelmap.com/model/Qwen/Qwen2.5-VL-72B-Instruct) | Qwen | 72B | unknown | 多模态 | 455K |
-| [Qwen3.5 27B](https://openmodelmap.com/model/Qwen/Qwen3.5-27B) | Qwen | 27B | unknown | 多模态 | 2.5M |
-| [Qwen3.5 35B A3B](https://openmodelmap.com/model/Qwen/Qwen3.5-35B-A3B) | Qwen | 35B | unknown | 多模态 | 2.3M |
-| [Qwen2.5 VL 32B Instruct](https://openmodelmap.com/model/Qwen/Qwen2.5-VL-32B-Instruct) | Qwen | 32B | unknown | 多模态 | 424K |
 | [gemma 4 31B it qat w4a16 ct](https://openmodelmap.com/model/google/gemma-4-31B-it-qat-w4a16-ct) | google | 31B | unknown | 多模态 | 78K |
 | [Idefics3 8B Llama3](https://openmodelmap.com/model/HuggingFaceM4/Idefics3-8B-Llama3) | HuggingFaceM4 | 8B | unknown | 多模态 | 392K |
-| [Qwen3.5 9B](https://openmodelmap.com/model/Qwen/Qwen3.5-9B) | Qwen | 9B | unknown | 多模态 | 8.5M |
-| [Qwen3.6 27B](https://openmodelmap.com/model/Qwen/Qwen3.6-27B) | Qwen | 27B | unknown | 多模态 | 3.9M |
 | [Phi 3.5 vision instruct](https://openmodelmap.com/model/microsoft/Phi-3.5-vision-instruct) | microsoft | 未知 | unknown | 多模态 | 2.0M |
-| [Qwen3 VL 30B A3B Instruct](https://openmodelmap.com/model/Qwen/Qwen3-VL-30B-A3B-Instruct) | Qwen | 30B | unknown | 多模态 | 682K |
-| [gemma 4 31B](https://openmodelmap.com/model/google/gemma-4-31B) | google | 31B | unknown | 多模态 | 467K |
 | [Qwen3.6 27B MLX 8bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.6-27B-MLX-8bit) | lmstudio-community | 27B | unknown | 多模态 | 371K |
 | [Qwen3.6 27B Uncensored HauhauCS Aggressive](https://openmodelmap.com/model/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive) | HauhauCS | 27B | unknown | 多模态 | 353K |
 | [gemma 3 27b it quantized.w4a16](https://openmodelmap.com/model/RedHatAI/gemma-3-27b-it-quantized.w4a16) | RedHatAI | 27B | unknown | 多模态 | 328K |
@@ -109,15 +94,10 @@
 | [GLM 4.6V Flash MLX 6bit](https://openmodelmap.com/model/lmstudio-community/GLM-4.6V-Flash-MLX-6bit) | lmstudio-community | 未知 | unknown | 多模态 | 98K |
 | [gemma 4 26B A4B it MLX 6bit](https://openmodelmap.com/model/lmstudio-community/gemma-4-26B-A4B-it-MLX-6bit) | lmstudio-community | 26B | unknown | 多模态 | 90K |
 | [Qwen3 VL 8B Instruct MLX 6bit](https://openmodelmap.com/model/lmstudio-community/Qwen3-VL-8B-Instruct-MLX-6bit) | lmstudio-community | 8B | unknown | 多模态 | 87K |
-| [InternVL3 5 30B A3B](https://openmodelmap.com/model/OpenGVLab/InternVL3_5-30B-A3B) | OpenGVLab | 30B | unknown | 多模态 | 80K |
 | [Qwen3.6 27B MLX 6bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.6-27B-MLX-6bit) | lmstudio-community | 27B | unknown | 多模态 | 328K |
 | [Qwen3.6 27B MLX 4bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.6-27B-MLX-4bit) | lmstudio-community | 27B | unknown | 多模态 | 161K |
 | [Qwen3.6 35B A3B MLX 8bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.6-35B-A3B-MLX-8bit) | lmstudio-community | 35B | unknown | 多模态 | 88K |
 | [Qwen3.6 35B A3B MLX 4bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.6-35B-A3B-MLX-4bit) | lmstudio-community | 35B | unknown | 多模态 | 80K |
-| [Qwen3.5 35B A3B Uncensored HauhauCS Aggressive](https://openmodelmap.com/model/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | HauhauCS | 35B | unknown | 多模态 | 196K |
-| [gemma 4 26B A4B it](https://openmodelmap.com/model/google/gemma-4-26B-A4B-it) | google | 26B | unknown | 多模态 | 13.2M |
-| [Qwen3 VL 8B Instruct](https://openmodelmap.com/model/Qwen/Qwen3-VL-8B-Instruct) | Qwen | 8B | unknown | 多模态 | 7.3M |
-| [Qwen3.6 35B A3B](https://openmodelmap.com/model/Qwen/Qwen3.6-35B-A3B) | Qwen | 35B | unknown | 多模态 | 3.7M |
 | [Qwen3 VL 2B Instruct](https://openmodelmap.com/model/Qwen/Qwen3-VL-2B-Instruct) | Qwen | 2B | unknown | 多模态 | 1.9M |
 | [UI TARS 1.5 7B](https://openmodelmap.com/model/ByteDance-Seed/UI-TARS-1.5-7B) | ByteDance-Seed | 7B | unknown | 多模态 | 642K |
 | [Qwen3.6 27B MLX 5bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.6-27B-MLX-5bit) | lmstudio-community | 27B | unknown | 多模态 | 327K |
@@ -128,6 +108,26 @@
 | [Qwen2.5 VL 7B Instruct abliterated](https://openmodelmap.com/model/huihui-ai/Qwen2.5-VL-7B-Instruct-abliterated) | huihui-ai | 7B | unknown | 多模态 | 127K |
 | [kosmos 2.5](https://openmodelmap.com/model/microsoft/kosmos-2.5) | microsoft | 未知 | unknown | 多模态 | 105K |
 | [InternVL3 14B](https://openmodelmap.com/model/OpenGVLab/InternVL3-14B) | OpenGVLab | 14B | unknown | 多模态 | 90K |
+| [AIN](https://openmodelmap.com/model/MBZUAI/AIN) | MBZUAI | 未知 | unknown | 多模态 | 88K |
+| [gemma 4 31B it MLX 8bit](https://openmodelmap.com/model/lmstudio-community/gemma-4-31B-it-MLX-8bit) | lmstudio-community | 31B | unknown | 多模态 | 85K |
+| [XCurOS1.2 8B VLBF16 Instruct](https://openmodelmap.com/model/XCurOS/XCurOS1.2-8B-VLBF16-Instruct) | XCurOS | 8B | unknown | 多模态 | 83K |
+| [InternVL3 5 GPT OSS 20B A4B Preview](https://openmodelmap.com/model/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) | OpenGVLab | 20B | unknown | 多模态 | 81K |
+| [Gemma 4 E4B Uncensored HauhauCS Aggressive](https://openmodelmap.com/model/HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive) | HauhauCS | 4B | unknown | 多模态 | 605K |
+| [gemma 4 26B A4B it MLX 5bit](https://openmodelmap.com/model/lmstudio-community/gemma-4-26B-A4B-it-MLX-5bit) | lmstudio-community | 26B | unknown | 多模态 | 87K |
+| [GLM 4.1V 9B Thinking](https://openmodelmap.com/model/zai-org/GLM-4.1V-9B-Thinking) | zai-org | 9B | unknown | 多模态 | 464K |
+| [Qwen3.5 9B MLX 4bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.5-9B-MLX-4bit) | lmstudio-community | 9B | unknown | 多模态 | 210K |
+| [gemma 4 26B A4B it MLX 4bit](https://openmodelmap.com/model/lmstudio-community/gemma-4-26B-A4B-it-MLX-4bit) | lmstudio-community | 26B | unknown | 多模态 | 162K |
+| [NVIDIA Nemotron Nano 12B v2 VL BF16](https://openmodelmap.com/model/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16) | nvidia | 12B | unknown | 多模态 | 124K |
+| [Mantis 8B siglip llama3](https://openmodelmap.com/model/TIGER-Lab/Mantis-8B-siglip-llama3) | TIGER-Lab | 8B | unknown | 多模态 | 104K |
+| [GLM 4.6V Flash MLX 8bit](https://openmodelmap.com/model/lmstudio-community/GLM-4.6V-Flash-MLX-8bit) | lmstudio-community | 未知 | unknown | 多模态 | 99K |
+| [udop large](https://openmodelmap.com/model/microsoft/udop-large) | microsoft | 未知 | unknown | 多模态 | 89K |
+| [gemma 4 26B A4B it QAT MLX 4bit](https://openmodelmap.com/model/lmstudio-community/gemma-4-26B-A4B-it-QAT-MLX-4bit) | lmstudio-community | 26B | unknown | 多模态 | 302K |
+| [Molmo2 8B](https://openmodelmap.com/model/allenai/Molmo2-8B) | allenai | 8B | unknown | 多模态 | 645K |
+| [Qwen3.5 9B MLX 8bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.5-9B-MLX-8bit) | lmstudio-community | 9B | unknown | 多模态 | 197K |
+| [Qwen3.5 4B (unsloth)](https://openmodelmap.com/model/unsloth/Qwen3.5-4B) | unsloth | 4B | unknown | 多模态 | 133K |
+| [Qwen3.5 2B Base](https://openmodelmap.com/model/Qwen/Qwen3.5-2B-Base) | Qwen | 2B | unknown | 多模态 | 124K |
+| [pixtral 12b](https://openmodelmap.com/model/mistral-experimental/pixtral-12b) | mistral-experimental | 12B | unknown | 多模态 | 123K |
+| [gemma 4 E4B it W4A16](https://openmodelmap.com/model/ciocan/gemma-4-E4B-it-W4A16) | ciocan | 4B | unknown | 多模态 | 96K |
 
 ## 🖼️ Image Generation
 
