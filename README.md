@@ -4,7 +4,7 @@
 > benchmarks, hardware requirements, deploy methods, licenses — all in one place.
 > Built and maintained by [OpenModelMap](https://openmodelmap.com).
 
-**Last updated**: 2026-08-02 09:28 UTC  
+**Last updated**: 2026-08-08 20:16 UTC  
 **Total models**: 187  
 **Categories**: 4  
 
@@ -37,17 +37,17 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 
 | Model | Organization | Parameters | License | Task | Downloads |
 |-------|--------------|------------|---------|------|-----------|
-| [DeepSeek R1](https://openmodelmap.com/model/deepseek-ai/DeepSeek-R1) | DeepSeek | 671B (37B activated) | MIT | 文本生成 | 7.0M |
-| [DeepSeek V3](https://openmodelmap.com/model/deepseek-ai/DeepSeek-V3) | DeepSeek | 671B (37B activated) | DeepSeek License | 文本生成 | 1.0M |
+| [DeepSeek R1](https://openmodelmap.com/model/deepseek-ai/DeepSeek-R1) | DeepSeek | 671B (37B activated) | MIT | 文本生成 | 9.6M |
+| [DeepSeek V3](https://openmodelmap.com/model/deepseek-ai/DeepSeek-V3) | DeepSeek | 671B (37B activated) | DeepSeek License | 文本生成 | 1.2M |
 | [Qwen3 14B](https://openmodelmap.com/model/Qwen/Qwen3-14B) | Qwen | 14B | apache-2.0 | 文本生成 | 1.5M |
 | [MiniMax M2.5](https://openmodelmap.com/model/MiniMaxAI/MiniMax-M2.5) | MiniMaxAI | 未知 | other | 文本生成 | 585K |
 | [Meta Llama 3.1 70B Instruct quantized.w4a16](https://openmodelmap.com/model/RedHatAI/Meta-Llama-3.1-70B-Instruct-quantized.w4a16) | RedHatAI | 70B | unknown | 文本生成 | 105K |
 | [Llama 3.1 405B Instruct](https://openmodelmap.com/model/meta-llama/Meta-Llama-3.1-405B-Instruct) | Meta | 405B | Llama 3.1 Community License | 文本生成 | 217K |
-| [Qwen2.5 72B](https://openmodelmap.com/model/Qwen/Qwen2.5-72B-Instruct) | 阿里巴巴（通义千问） | 72B | Apache 2.0 | 文本生成 | 663K |
+| [Qwen2.5 72B](https://openmodelmap.com/model/Qwen/Qwen2.5-72B-Instruct) | 阿里巴巴（通义千问） | 72B | Apache 2.0 | 文本生成 | 467K |
 | [GLM 4.7 Flash MLX 8bit](https://openmodelmap.com/model/lmstudio-community/GLM-4.7-Flash-MLX-8bit) | lmstudio-community | 未知 | unknown | 文本生成 | 176K |
 | [Llama 3.1 70B Instruct](https://openmodelmap.com/model/meta-llama/Meta-Llama-3.1-70B-Instruct) | Meta | 70B | Llama 3.1 Community License | 文本生成 | 672K |
-| [Qwen2.5 32B](https://openmodelmap.com/model/Qwen/Qwen2.5-32B-Instruct) | 阿里巴巴（通义千问） | 32B | Apache 2.0 | 文本生成 | 1.2M |
-| [DeepSeek R1 Distill Qwen 32B](https://openmodelmap.com/model/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B) | DeepSeek | 32B | MIT | 文本生成 | 758K |
+| [Qwen2.5 32B](https://openmodelmap.com/model/Qwen/Qwen2.5-32B-Instruct) | 阿里巴巴（通义千问） | 32B | Apache 2.0 | 文本生成 | 1.7M |
+| [DeepSeek R1 Distill Qwen 32B](https://openmodelmap.com/model/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B) | DeepSeek | 32B | MIT | 文本生成 | 810K |
 | [Mistral 7B Instruct v0.2](https://openmodelmap.com/model/mistralai/Mistral-7B-Instruct-v0.2) | mistralai | 7B | apache-2.0 | 文本生成 | 1.4M |
 | [phi 4](https://openmodelmap.com/model/microsoft/phi-4) | microsoft | 未知 | mit | 文本生成 | 814K |
 | [Qwen3 8B Base](https://openmodelmap.com/model/Qwen/Qwen3-8B-Base) | Qwen | 8B | apache-2.0 | 文本生成 | 454K |
@@ -56,10 +56,11 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 | [Llama 3.1 8B Instruct (unsloth)](https://openmodelmap.com/model/unsloth/Llama-3.1-8B-Instruct) | unsloth | 8B | unknown | 文本生成 | 158K |
 | [Olmo 3 1025 7B](https://openmodelmap.com/model/allenai/Olmo-3-1025-7B) | allenai | 7B | unknown | 文本生成 | 151K |
 | [Meta Llama 3.1 8B Instruct (NousResearch)](https://openmodelmap.com/model/NousResearch/Meta-Llama-3.1-8B-Instruct) | NousResearch | 8B | unknown | 文本生成 | 137K |
+| [Llama 3 70B Instruct](https://openmodelmap.com/model/meta-llama/Meta-Llama-3-70B-Instruct) | Meta | 70B | Llama 3 Community License | 文本生成 | 114K |
 | [Olmo 3 7B Think](https://openmodelmap.com/model/allenai/Olmo-3-7B-Think) | allenai | 7B | unknown | 文本生成 | 96K |
 | [internlm2 5 step prover critic](https://openmodelmap.com/model/internlm/internlm2_5-step-prover-critic) | internlm | 未知 | unknown | 文本生成 | 95K |
 | [GLM 4.7 Flash (unsloth)](https://openmodelmap.com/model/unsloth/GLM-4.7-Flash) | unsloth | 未知 | unknown | 文本生成 | 344K |
-| [Qwen2.5 14B Instruct](https://openmodelmap.com/model/Qwen/Qwen2.5-14B-Instruct) | 阿里巴巴（通义千问） | 14B | Apache 2.0 | 文本生成 | 2.1M |
+| [Qwen2.5 14B Instruct](https://openmodelmap.com/model/Qwen/Qwen2.5-14B-Instruct) | 阿里巴巴（通义千问） | 14B | Apache 2.0 | 文本生成 | 3.4M |
 | [DeepSeek R1 0528 Qwen3 8B MLX 4bit](https://openmodelmap.com/model/lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-4bit) | lmstudio-community | 8B | unknown | 文本生成 | 347K |
 | [gemma 4 26B A4B it uncensored](https://openmodelmap.com/model/TrevorJS/gemma-4-26B-A4B-it-uncensored) | TrevorJS | 26B | unknown | 文本生成 | 219K |
 | [GLM 4.7 Flash MLX 6bit](https://openmodelmap.com/model/lmstudio-community/GLM-4.7-Flash-MLX-6bit) | lmstudio-community | 未知 | unknown | 文本生成 | 169K |
@@ -76,7 +77,9 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 | [Qwen3 8B (unsloth)](https://openmodelmap.com/model/unsloth/Qwen3-8B) | unsloth | 8B | unknown | 文本生成 | 92K |
 | [Kimi K2.6 mlx DQ3 K M q8](https://openmodelmap.com/model/mlx-community/Kimi-K2.6-mlx-DQ3_K_M-q8) | mlx-community | 未知 | unknown | 文本生成 | 86K |
 | [Hy3 preview](https://openmodelmap.com/model/tencent/Hy3-preview) | tencent | 未知 | unknown | 文本生成 | 80K |
+| [Mixtral 8×22B Instruct](https://openmodelmap.com/model/mistralai/Mixtral-8x22B-Instruct-v0.1) | Mistral AI | 141B (39B activated) | Apache 2.0 | 文本生成 | 64K |
 | [Olmo 3 7B Instruct](https://openmodelmap.com/model/allenai/Olmo-3-7B-Instruct) | allenai | 7B | apache-2.0 | 文本生成 | 152K |
+| [Gemma 2 27B](https://openmodelmap.com/model/google/gemma-2-27b-it) | Google | 27B | Gemma License | 文本生成 | 118K |
 | [MiniMax M2.7](https://openmodelmap.com/model/MiniMaxAI/MiniMax-M2.7) | MiniMaxAI | 未知 | other | 文本生成 | 2.6M |
 | [Rio 3.0 Open Mini](https://openmodelmap.com/model/prefeitura-rio/Rio-3.0-Open-Mini) | prefeitura-rio | 未知 | unknown | 文本生成 | 2.1M |
 | [LLaDA 8B Instruct](https://openmodelmap.com/model/GSAI-ML/LLaDA-8B-Instruct) | GSAI-ML | 8B | mit | 文本生成 | 813K |
@@ -84,9 +87,6 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 | [gpt oss 20b MXFP4 Q8](https://openmodelmap.com/model/mlx-community/gpt-oss-20b-MXFP4-Q8) | mlx-community | 20B | unknown | 文本生成 | 370K |
 | [DeepSeek R1 0528 Qwen3 8B MLX 8bit](https://openmodelmap.com/model/lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-8bit) | lmstudio-community | 8B | unknown | 文本生成 | 313K |
 | [ReaderLM v2](https://openmodelmap.com/model/jinaai/ReaderLM-v2) | jinaai | 未知 | cc-by-nc-4.0 | 文本生成 | 261K |
-| [Hermes 3 Llama 3.1 8B](https://openmodelmap.com/model/NousResearch/Hermes-3-Llama-3.1-8B) | NousResearch | 8B | llama3 | 文本生成 | 241K |
-| [LFM2 24B A2B MLX 8bit](https://openmodelmap.com/model/lmstudio-community/LFM2-24B-A2B-MLX-8bit) | lmstudio-community | 24B | unknown | 文本生成 | 235K |
-| [Phi 3 mini 128k instruct](https://openmodelmap.com/model/microsoft/Phi-3-mini-128k-instruct) | microsoft | 未知 | mit | 文本生成 | 223K |
 
 ## 👁️ Vision / Multimodal
 
@@ -148,7 +148,7 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 | Model | Organization | Parameters | License | Task | Downloads |
 |-------|--------------|------------|---------|------|-----------|
 | [stable diffusion v1 5](https://openmodelmap.com/model/stable-diffusion-v1-5/stable-diffusion-v1-5) | stable-diffusion-v1-5 | 未知 | creativeml-openrail-m | 图像生成 | 1.6M |
-| [Stable Diffusion XL 1.0](https://openmodelmap.com/model/stabilityai/stable-diffusion-xl-base-1.0) | Stability AI | 2.6B (UNet) + 文本编码器 | CreativeML Open RAIL++-M | 图像生成 | 1.4M |
+| [Stable Diffusion XL 1.0](https://openmodelmap.com/model/stabilityai/stable-diffusion-xl-base-1.0) | Stability AI | 2.6B (UNet) + 文本编码器 | CreativeML Open RAIL++-M | 图像生成 | 1.5M |
 | [HunyuanImage 3.0](https://openmodelmap.com/model/tencent/HunyuanImage-3.0) | tencent | 未知 | other | 图像生成 | 995K |
 | [Z Image Turbo](https://openmodelmap.com/model/Tongyi-MAI/Z-Image-Turbo) | Tongyi-MAI | 未知 | apache-2.0 | 图像生成 | 849K |
 | [sdxl turbo](https://openmodelmap.com/model/stabilityai/sdxl-turbo) | stabilityai | 未知 | other | 图像生成 | 784K |
@@ -162,7 +162,7 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 | [animagine xl 4.0](https://openmodelmap.com/model/cagliostrolab/animagine-xl-4.0) | cagliostrolab | 未知 | openrail++ | 图像生成 | 243K |
 | [dvine82 xl](https://openmodelmap.com/model/martineux/dvine82-xl) | martineux | 未知 | unknown | 图像生成 | 239K |
 | [one obsession 17 red sdxl](https://openmodelmap.com/model/John6666/one-obsession-17-red-sdxl) | John6666 | 未知 | unknown | 图像生成 | 236K |
-| [FLUX.1 Schnell](https://openmodelmap.com/model/black-forest-labs/FLUX.1-schnell) | Black Forest Labs | 12B | Apache 2.0 | 图像生成 | 221K |
+| [FLUX.1 Schnell](https://openmodelmap.com/model/black-forest-labs/FLUX.1-schnell) | Black Forest Labs | 12B | Apache 2.0 | 图像生成 | 225K |
 | [stable diffusion inpainting](https://openmodelmap.com/model/stable-diffusion-v1-5/stable-diffusion-inpainting) | stable-diffusion-v1-5 | 未知 | creativeml-openrail-m | 图像生成 | 209K |
 | [Pony Diffusion V6 XL](https://openmodelmap.com/model/LyliaEngine/Pony_Diffusion_V6_XL) | LyliaEngine | 未知 | cdla-permissive-2.0 | 图像生成 | 207K |
 | [small sd](https://openmodelmap.com/model/segmind/small-sd) | segmind | 未知 | unknown | 图像生成 | 205K |
