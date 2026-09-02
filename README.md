@@ -4,7 +4,7 @@
 > benchmarks, hardware requirements, deploy methods, licenses — all in one place.
 > Built and maintained by [OpenModelMap](https://openmodelmap.com).
 
-**Last updated**: 2026-09-01 07:50 UTC  
+**Last updated**: 2026-09-02 08:22 UTC  
 **Total models**: 187  
 **Categories**: 4  
 
@@ -68,6 +68,7 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 | [phi 4 quantized.w4a16](https://openmodelmap.com/model/RedHatAI/phi-4-quantized.w4a16) | RedHatAI | 未知 | unknown | 文本生成 | 94K |
 | [Phi-3.5 MoE](https://openmodelmap.com/model/microsoft/Phi-3.5-MoE-instruct) | Microsoft | 42B (6.6B activated) | MIT | 文本生成 | 135K |
 | [Qwen3 14B Base](https://openmodelmap.com/model/Qwen/Qwen3-14B-Base) | Qwen | 14B | unknown | 文本生成 | 93K |
+| [Qwen2.5 14B Chat](https://openmodelmap.com/model/Qwen/Qwen2.5-14B-Instruct) | Qwen | 14B | Apache 2.0 | 文本生成 | 2.7M |
 | [Qwen2.5 7B (Qwen)](https://openmodelmap.com/model/Qwen/Qwen2.5-7B) | Qwen | 7B | apache-2.0 | 文本生成 | 802K |
 | [Qwen2 7B Instruct](https://openmodelmap.com/model/Qwen/Qwen2-7B-Instruct) | Qwen | 7B | apache-2.0 | 文本生成 | 646K |
 | [ModernBERT large](https://openmodelmap.com/model/answerdotai/ModernBERT-large) | answerdotai | 未知 | apache-2.0 | 文本生成 | 336K |
@@ -80,13 +81,12 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 | [Mixtral 8×22B Instruct](https://openmodelmap.com/model/mistralai/Mixtral-8x22B-Instruct-v0.1) | Mistral AI | 141B (39B activated) | Apache 2.0 | 文本生成 | 64K |
 | [Olmo 3 7B Instruct](https://openmodelmap.com/model/allenai/Olmo-3-7B-Instruct) | allenai | 7B | apache-2.0 | 文本生成 | 152K |
 | [Gemma 2 27B](https://openmodelmap.com/model/google/gemma-2-27b-it) | Google | 27B | Gemma License | 文本生成 | 118K |
-| [MiniMax M2.7](https://openmodelmap.com/model/MiniMaxAI/MiniMax-M2.7) | MiniMaxAI | 未知 | other | 文本生成 | 2.6M |
+| [MiniMax M2.7](https://openmodelmap.com/model/MiniMaxAI/MiniMax-M2.7) | MiniMaxAI | 229B | other | 文本生成 | 2.6M |
 | [Rio 3.0 Open Mini](https://openmodelmap.com/model/prefeitura-rio/Rio-3.0-Open-Mini) | prefeitura-rio | 未知 | unknown | 文本生成 | 2.1M |
 | [LLaDA 8B Instruct](https://openmodelmap.com/model/GSAI-ML/LLaDA-8B-Instruct) | GSAI-ML | 8B | mit | 文本生成 | 813K |
 | [Qwen3 4B Thinking 2507](https://openmodelmap.com/model/Qwen/Qwen3-4B-Thinking-2507) | Qwen | 4B | apache-2.0 | 文本生成 | 527K |
 | [gpt oss 20b MXFP4 Q8](https://openmodelmap.com/model/mlx-community/gpt-oss-20b-MXFP4-Q8) | mlx-community | 20B | unknown | 文本生成 | 370K |
 | [DeepSeek R1 0528 Qwen3 8B MLX 8bit](https://openmodelmap.com/model/lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-8bit) | lmstudio-community | 8B | unknown | 文本生成 | 313K |
-| [ReaderLM v2](https://openmodelmap.com/model/jinaai/ReaderLM-v2) | jinaai | 未知 | cc-by-nc-4.0 | 文本生成 | 261K |
 
 ## 👁️ Vision / Multimodal
 
@@ -98,7 +98,7 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 | [gemma 4 26B A4B](https://openmodelmap.com/model/google/gemma-4-26B-A4B) | google | 26B | apache-2.0 | 多模态 | 102K |
 | [gemma 4 31B it qat w4a16 ct](https://openmodelmap.com/model/google/gemma-4-31B-it-qat-w4a16-ct) | google | 31B | unknown | 多模态 | 78K |
 | [Idefics3 8B Llama3](https://openmodelmap.com/model/HuggingFaceM4/Idefics3-8B-Llama3) | HuggingFaceM4 | 8B | apache-2.0 | 多模态 | 392K |
-| [Phi 3.5 vision instruct](https://openmodelmap.com/model/microsoft/Phi-3.5-vision-instruct) | microsoft | 未知 | mit | 多模态 | 2.0M |
+| [Phi 3.5 vision instruct](https://openmodelmap.com/model/microsoft/Phi-3.5-vision-instruct) | microsoft | 4B | mit | 多模态 | 2.0M |
 | [Qwen3.6 27B MLX 8bit](https://openmodelmap.com/model/lmstudio-community/Qwen3.6-27B-MLX-8bit) | lmstudio-community | 27B | unknown | 多模态 | 371K |
 | [Qwen3.6 27B Uncensored HauhauCS Aggressive](https://openmodelmap.com/model/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive) | HauhauCS | 27B | unknown | 多模态 | 353K |
 | [gemma 3 27b it quantized.w4a16](https://openmodelmap.com/model/RedHatAI/gemma-3-27b-it-quantized.w4a16) | RedHatAI | 27B | unknown | 多模态 | 328K |
@@ -147,10 +147,10 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 
 | Model | Organization | Parameters | License | Task | Downloads |
 |-------|--------------|------------|---------|------|-----------|
-| [stable diffusion v1 5](https://openmodelmap.com/model/stable-diffusion-v1-5/stable-diffusion-v1-5) | stable-diffusion-v1-5 | 未知 | creativeml-openrail-m | 图像生成 | 1.6M |
+| [stable diffusion v1 5](https://openmodelmap.com/model/stable-diffusion-v1-5/stable-diffusion-v1-5) | stable-diffusion-v1-5 | 860M | creativeml-openrail-m | 图像生成 | 1.6M |
 | [Stable Diffusion XL 1.0](https://openmodelmap.com/model/stabilityai/stable-diffusion-xl-base-1.0) | Stability AI | 2.6B (UNet) + 文本编码器 | CreativeML Open RAIL++-M | 图像生成 | 1.5M |
 | [HunyuanImage 3.0](https://openmodelmap.com/model/tencent/HunyuanImage-3.0) | tencent | 未知 | other | 图像生成 | 995K |
-| [Z Image Turbo](https://openmodelmap.com/model/Tongyi-MAI/Z-Image-Turbo) | Tongyi-MAI | 未知 | apache-2.0 | 图像生成 | 849K |
+| [Z Image Turbo](https://openmodelmap.com/model/Tongyi-MAI/Z-Image-Turbo) | Tongyi-MAI | 6B | apache-2.0 | 图像生成 | 849K |
 | [sdxl turbo](https://openmodelmap.com/model/stabilityai/sdxl-turbo) | stabilityai | 未知 | other | 图像生成 | 784K |
 | [sd turbo](https://openmodelmap.com/model/stabilityai/sd-turbo) | stabilityai | 未知 | unknown | 图像生成 | 722K |
 | [dreamshaper 7](https://openmodelmap.com/model/Lykon/dreamshaper-7) | Lykon | 未知 | unknown | 图像生成 | 671K |
