@@ -4,7 +4,7 @@
 > benchmarks, hardware requirements, deploy methods, licenses — all in one place.
 > Built and maintained by [OpenModelMap](https://openmodelmap.com).
 
-**Last updated**: 2026-09-04 05:41 UTC  
+**Last updated**: 2026-09-05 00:20 UTC  
 **Total models**: 187  
 **Categories**: 4  
 
@@ -68,7 +68,6 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 | [phi 4 quantized.w4a16](https://openmodelmap.com/model/RedHatAI/phi-4-quantized.w4a16) | RedHatAI | 未知 | unknown | 文本生成 | 94K |
 | [Phi-3.5 MoE](https://openmodelmap.com/model/microsoft/Phi-3.5-MoE-instruct) | Microsoft | 42B (6.6B activated) | MIT | 文本生成 | 135K |
 | [Qwen3 14B Base](https://openmodelmap.com/model/Qwen/Qwen3-14B-Base) | Qwen | 14B | unknown | 文本生成 | 93K |
-| [Qwen2.5 14B Chat](https://openmodelmap.com/model/Qwen/Qwen2.5-14B-Instruct) | Qwen | 14B | Apache 2.0 | 文本生成 | 2.7M |
 | [Qwen2.5 7B (Qwen)](https://openmodelmap.com/model/Qwen/Qwen2.5-7B) | Qwen | 7B | apache-2.0 | 文本生成 | 802K |
 | [Qwen2 7B Instruct](https://openmodelmap.com/model/Qwen/Qwen2-7B-Instruct) | Qwen | 7B | apache-2.0 | 文本生成 | 646K |
 | [ModernBERT large](https://openmodelmap.com/model/answerdotai/ModernBERT-large) | answerdotai | 未知 | apache-2.0 | 文本生成 | 336K |
@@ -87,6 +86,7 @@ This is the open-source index behind **OpenModelMap** ([openmodelmap.com](https:
 | [Qwen3 4B Thinking 2507](https://openmodelmap.com/model/Qwen/Qwen3-4B-Thinking-2507) | Qwen | 4B | apache-2.0 | 文本生成 | 527K |
 | [gpt oss 20b MXFP4 Q8](https://openmodelmap.com/model/mlx-community/gpt-oss-20b-MXFP4-Q8) | mlx-community | 20B | unknown | 文本生成 | 370K |
 | [DeepSeek R1 0528 Qwen3 8B MLX 8bit](https://openmodelmap.com/model/lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-8bit) | lmstudio-community | 8B | unknown | 文本生成 | 313K |
+| [ReaderLM v2](https://openmodelmap.com/model/jinaai/ReaderLM-v2) | jinaai | 未知 | cc-by-nc-4.0 | 文本生成 | 261K |
 
 ## 👁️ Vision / Multimodal
 
