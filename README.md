@@ -4,7 +4,7 @@
 > benchmarks, hardware requirements, deploy methods, licenses — all in one place.
 > Built and maintained by [OpenModelMap](https://openmodelmap.com).
 
-**Last updated**: 2026-10-25 00:20 UTC  
+**Last updated**: 2026-10-26 00:20 UTC  
 **Total models**: 187  
 **Categories**: 4  
 
